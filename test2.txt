@@ -1,3 +1,7 @@
 3:23 PM 2020-09-22
 TEST2.TXT
 second line added to new branch and not master (initially)
+=======
+TEST2.TXT
+second line added to new branch and not master (initially)
+
